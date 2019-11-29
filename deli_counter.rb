@@ -19,4 +19,4 @@ def take_a_number(line, name)
     line += 1 
 end
   
-  
+end
