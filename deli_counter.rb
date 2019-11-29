@@ -15,9 +15,10 @@ def line(array)
 end
 
 def take_a_number(line, name)
-  line << name
-  line += 1
-  puts "#{name}, #{line}"
+  if line == 0
+    line += 1 
+  elsif line >= 0 
+    l
 end
   
   
