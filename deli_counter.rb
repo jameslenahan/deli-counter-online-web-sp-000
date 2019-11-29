@@ -18,5 +18,4 @@ def take_a_number(line, name)
   if line == 0
     line += 1 
 end
-  
 end
